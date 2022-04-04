@@ -8,6 +8,12 @@
 
 ### **Analysis of Outcomes Based on Launch Dates**
 
-#### In the image below you can see the outcome of different Theater campaigns by month. In the "Y" axis you will find the number of campaings for the plotted outcome.
+#### In the image below you can see the outcome of different Theater campaigns by month. In the "Y" axis you will find the number of campaings for the plotted outcome. The green line represents the successful campaigns, the red line represents the failed campaigns and the black line represents the canceled campaigns.
 
-![Theater Outcomes Based on Launch Date](
+![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
+
+### **Analysis of Outcomes Based on Goals**
+
+### Below you will find an image showing the outcome for different campaign based on their goals. The "Y" axis shows the percentage of succesful, failed or canceled campaigns and the "X" axis shows the campaign goals segmented in ranges. 12 different ranges were created as can be seen in the image.
+
+![Outcomes vs Goals](
