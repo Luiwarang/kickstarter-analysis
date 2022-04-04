@@ -30,7 +30,7 @@
 
 ### > From the Outcomes based on Goals we can conclude that the higher number of successful campaigns are those ones within the ranges of less than 1,000 and from 1,000 to 4,999 with more than 70% of successful campaigns vs failed ones. The range where your funding goal of 12,000 is located (from 10,000 to 14,999) has a lower successful rate with 54% but still is over the failed ones.
 
-### > One limitations of this data set is that within the plays subcategory it is not included the genre of the play which would give us a better point of comparison with the specific genre of "Fever". Another limitation I see is that the location of the campagins is limited to Country, if we had information about state or cities, we could make a more precise analysis of a specific place where "Fever" could have a greater success oportunity.
+### > One limitation of this data set is that within the plays subcategory it is not included the genre of the play which would give us a better point of comparison with the specific genre of "Fever". Another limitation I see is that the location of the campagins is limited to Country, if we had information about state or cities, we could make a more precise analysis of a specific place where "Fever" could have a greater success oportunity.
 
 ### > Other possible tables or graphs we could create are: a) A comparison of how quickly a campaing was funded by showing the time difference between the launch and the deadlines dates, b) A comparison of outcomes by country to see in which country there are more successful campaigns, c) The average donation per subcategory and country to find in which country we can find more backers with the disposition of spend more money in specific campaigns.
 
